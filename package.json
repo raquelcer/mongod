@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "scrape news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raquelcer/mongod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raquelcer/mongod/issues"
+  },
+  "homepage": "https://github.com/raquelcer/mongod#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.5.9"
+  }
+}
